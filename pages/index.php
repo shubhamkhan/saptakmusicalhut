@@ -69,7 +69,7 @@
           <li><a href="#">HOME<span class="sr-only">(current)</span></a></li>
           <li><a href="#">MUSICAL INSTRUMENTS</a></li>
           <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">HOT DEALS<span class="caret"></span></a>
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">HOT DEALS</a>
             <ul class="dropdown-menu">
               <li><a href="#">Action</a></li>
               <li><a href="#">Another action</a></li>
@@ -81,14 +81,14 @@
             </ul>
           </li>
           <li><a href="#">STUDIO/RECORDING</a></li>
-          <li class="dropdown dropdown-large center">
-    				<a href="#" class="dropdown-toggle" data-toggle="dropdown">PRO AV<b class="caret"></b></a>
+          <li class="dropdown dropdown-large cent">
+    				<a href="#" class="dropdown-toggle" data-toggle="dropdown">PRO AV</a>
     				<ul class="dropdown-menu dropdown-menu-large row">
     					<li class="col-sm-3">
     						<ul>
     							<li class="dropdown-header">Glyphicons</li>
     							<li><a href="#">Available glyphs</a></li>
-    							<li><a href="#">How to use</a></li>
+    							<li class="disabled"><a href="#">How to use</a></li>
     							<li><a href="#">Examples</a></li>
     							<li class="divider"></li>
     							<li class="dropdown-header">Dropdowns</li>
@@ -153,9 +153,36 @@
   <aside>
   </aside>
   <section>
+    <!--Image Slide Scroll-->
+    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner" role="listbox">
+        <!-- 1280 x 200  img used-->
+        <div class="item active">
+          <img src="../images/icon/h2.jpg" alt="First slide">
+        </div>
+        <div class="item">
+          <img src="../images/icon/h2.jpg" alt="Second slide">
+        </div>
+        <div class="item">
+          <img src="../images/icon/h2.jpg" alt="Third slide">
+        </div>
+      </div>
+      <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
     <div class="container">
       <div class="page-header">
-        <h1>Sticky footer with fixed navbar</h1>
       </div>
       <p class="lead">Pin a fixed-height footer to the bottom of the viewport in desktop browsers with this custom HTML and CSS. A fixed navbar has been added with <code>padding-top: 60px;</code> on the <code>body &gt; .container</code>.</p>
       <p>Back to <a href="../sticky-footer">the default sticky footer</a> minus the navbar.</p>
@@ -195,6 +222,21 @@
        $('#dataTables-example').DataTable({
                responsive: true
        });
+    });
+    $(document).ready(function() {
+       $(".nav li.disabled a").click(function() {
+         return false;
+       });
+    });
+    var onResize = function() {
+    // apply dynamic padding at the top of the body according to the fixed navbar height
+      $("body").css("padding-top", $(".navbar-fixed-top").height());
+    };
+    // attach the function to the window resize event
+    $(window).resize(onResize);
+    // call it also when the page is ready after load or reload
+    $(function() {
+      onResize();
     });
     </script>
   </footer>

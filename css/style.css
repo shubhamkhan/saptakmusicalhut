@@ -1,3 +1,6 @@
+body {
+  padding-top: 100px;
+}
 /* Center Manu */
 .navbar .navbar-nav {
   display: inline-block;
