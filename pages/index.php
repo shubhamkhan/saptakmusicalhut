@@ -67,81 +67,291 @@
         </form>
         <ul class="nav navbar-nav">
           <li><a href="#">HOME<span class="sr-only">(current)</span></a></li>
-          <li><a href="#">MUSICAL INSTRUMENTS</a></li>
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">HOT DEALS</a>
-            <ul class="dropdown-menu">
-              <li><a href="#">Action</a></li>
-              <li><a href="#">Another action</a></li>
-              <li><a href="#">Something else here</a></li>
-              <li role="separator" class="divider"></li>
-              <li><a href="#">Separated link</a></li>
-              <li role="separator" class="divider"></li>
-              <li><a href="#">One more separated link</a></li>
+          <li><a href="#">MUSICAL INSTRUMENTS<span class="sr-only">(current)</span></a></li>
+
+
+          <li class="dropdown dropdown-large cent">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">HOT DEALS</a>
+            <ul class="dropdown-menu dropdown-menu-large row">
+              <li class="col-sm-3">
+                <ul>
+                  <li class="dropdown-header">DJ SOFTWARE</li>
+                  <li><a href="#">KEYBOARDS BELOW 5000</a></li>
+                  <li><a href="#">CASIO KEYBOARDS BELOW 10000</a></li>
+                  <li><a href="#">YAMAHA KEYBOARDS BELOW 10000</a></li>
+                  <li><a href="#">KEYBOARDS BELOW 15000</a></li>
+                  <li><a href="#">KEYBOARDS BELOW 20000</a></li>
+                  <li><a href="#">BEST CASIO KEYBOARDS</a></li>
+                  <li><a href="#">YAMAHA BEST KEYBOARDS</a></li>
+                  <li class="divider"></li>
+                </ul>
+              </li>
+
+              <li class="col-sm-3">
+                <ul>
+                <li class="dropdown-header">GUITAR DEALS</li>
+                <li><a href="#">ACOUSTIC GUITARS UNDER 5000</a></li>
+                <li><a href="#">ACOUSTIC GUITARS UNDER 10000</a></li>
+                <li class="divider"></li>
+                </ul>
+              </li>
+
+
+              <li class="col-sm-3">
+                <ul>
+                  <li class="dropdown-header">MERCHANDISE</li>
+                  <li><a href="#">ALBUMS</a></li>
+                  <li><a href="#">POSTERS</a></li>
+                  <li><a href="#">MUGS</a></li>
+                  <li><a href="#">COASTER</a></li>
+                  <li><a href="#">FRIDGE MAGNET</a></li>
+                  <li><a href="#">CUSHION COVERS</a></li>
+                  <li><a href="#">LAPTOP SKINS</a></li>
+                  <li class="divider"></li>
+                </ul>
+              </li>
+
+              <li class="col-sm-3">
+                <ul>
+                  <li class="dropdown-header">STUDIO DEALS</li>
+                  <li class="divider"></li>
+                  <li class="dropdown-header">DRUM DEALS</li>
+                  <li class="divider"></li>
+                  <li class="dropdown-header">DJ DEALS</li>
+                  <li class="divider"></li>
+                </ul>
+              </li>
             </ul>
-          </li>
-          <li><a href="#">STUDIO/RECORDING</a></li>
+            </li>
+
+            <li class="dropdown dropdown-large cent">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">STUDIO/RECORDING</a>
+              <ul class="dropdown-menu dropdown-menu-large row">
+
+                <li class="col-sm-3">
+                  <ul>
+                    <li class="dropdown-header">AUDIO INTERFACES</li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">HEARING PROTECTION</li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">RECORDING SOFTWARES</li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">PREMIUM STUDIO MONITORS</li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">PREMIUM AUDIO INTERFACES</li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">HEADPHONES</li>
+                    <li class="divider"></li>
+                  </ul>
+                </li>
+
+                <li class="col-sm-3">
+                  <ul>
+                    <li class="dropdown-header">CHANNEL STRIPS</li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">MIDI KEYBOARDS</li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">SIGNAL PROCESSING</li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">PREAMPS</li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">MONITORS & SPEAKERS</li>
+                    <li><a href="#">THE STUDIO MONITOR STORE</a></li>
+                    <li class="divider"></li>
+                  </ul>
+                </li>
+
+                <li class="col-sm-3">
+                  <ul>
+                  <li class="dropdown-header">DI BOXES</li>
+                  <li class="divider"></li>
+                  <li class="dropdown-header">MIDI INTERFACES</li>
+                  <li class="divider"></li>
+                  <li class="dropdown-header">SOUND PROOF/TREATMENT</li>
+                  <li class="divider"></li>
+                  <li class="dropdown-header">SPECTRUM MANAGER</li>
+                  <li class="divider"></li>
+                  <li class="dropdown-header">STUDIO ACCESSORIESS</li>
+                  <li><a href="#">MIC STANDS</a></li>
+                  <li class="divider"></li>
+                  </ul>
+                </li>
+
+
+                <li class="col-sm-3">
+                  <ul>
+                    <li class="dropdown-header">HEADPHONE AMPLIFIERS</li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">MULTITRACK RECORDERS</li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">PORTABLE & FIELD RECORDERS</li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">MICROPHONES</li>
+                    <li><a href="#">CONDENSER MICROPHONES</a></li>
+                    <li><a href="#">DYNAMIC MICROPHONES</a></li>
+                    <li><a href="#">USB MICROPHONES</a></li>
+                    <li class="divider"></li>
+                  </ul>
+                </li>
+
+              </ul>
+              </li>
+
           <li class="dropdown dropdown-large cent">
     				<a href="#" class="dropdown-toggle" data-toggle="dropdown">PRO AV</a>
     				<ul class="dropdown-menu dropdown-menu-large row">
     					<li class="col-sm-3">
     						<ul>
-    							<li class="dropdown-header">Glyphicons</li>
-    							<li><a href="#">Available glyphs</a></li>
-    							<li class="disabled"><a href="#">How to use</a></li>
-    							<li><a href="#">Examples</a></li>
-    							<li class="divider"></li>
-    							<li class="dropdown-header">Dropdowns</li>
-    							<li><a href="#">Example</a></li>
-    							<li><a href="#">Aligninment options</a></li>
-    							<li><a href="#">Headers</a></li>
-    							<li><a href="#">Disabled menu items</a></li>
+    							<li class="dropdown-header">TOURING & CINEMA SOUND</li>
+    							<li><a href="#">ACTIVE PA BUNDLES</a></li>
+    							<li><a href="#">CINEMA SOUND SYSTEMS</a></li>
+    							<li><a href="#">DIGITAL SNAKES & ACCESSORIES</a></li>
+                  <li><a href="#">FLOOR MONITORS</a></li>
+                  <li><a href="#">INSTALLED SOUND</a></li>
+                  <li><a href="#">LIGHTS</a></li>
+                  <li><a href="#">LIVE SOUND PROCESSORS</a></li>
+                  <li><a href="#">MIXERS</a></li>
+                  <li><a href="#">PASSIVE PA SPEAKERS</a></li>
+                  <li><a href="#">PA SYSTEMS</a></li>
+                  <li><a href="#">PORTABLE PA SYSTEMS</a></li>
+                  <li><a href="#">POWER AMPLIFIERS</a></li>
+                  <li><a href="#">STANDS & ACCESSORIES</a></li>
+	                <li class="divider"></li>
     						</ul>
     					</li>
+
     					<li class="col-sm-3">
     						<ul>
-    							<li class="dropdown-header">Button groups</li>
-    							<li><a href="#">Basic example</a></li>
-    							<li><a href="#">Button toolbar</a></li>
-    							<li><a href="#">Sizing</a></li>
-    							<li><a href="#">Nesting</a></li>
-    							<li><a href="#">Vertical variation</a></li>
+    							<li class="dropdown-header">PARTS & SPARES</li>
+    							<li><a href="#">CONNECTORS & ADAPTERS</a></li>
+    							<li><a href="#">SPEAKER COMPONENTS</a></li>
+    							<li><a href="#">TOOLS & SUPPLIES</a></li>
     							<li class="divider"></li>
-    							<li class="dropdown-header">Button dropdowns</li>
-    							<li><a href="#">Single button dropdowns</a></li>
+    							<li class="dropdown-header">BATTERY CHARGERS</li>
+                  <li class="divider"></li>
     						</ul>
     					</li>
-    					<li class="col-sm-3">
-    						<ul>
-    							<li class="dropdown-header">Input groups</li>
-    							<li><a href="#">Basic example</a></li>
-    							<li><a href="#">Sizing</a></li>
-    							<li><a href="#">Checkboxes and radio addons</a></li>
+
+              <li class="col-sm-3">
+                <ul>
+                  <li class="dropdown-header">BOSE PROSTORE</li>
+                  <li class="divider"></li>
+                  <li class="dropdown-header">VIDEO EDITING</li>
+                  <li class="divider"></li>
+                  <li class="dropdown-header">CAMERA ACCESSORIES</li>
+                  <li class="divider"></li>
+                  <li class="dropdown-header">CONFERENCE SYSTEMS</li>
     							<li class="divider"></li>
-    							<li class="dropdown-header">Navs</li>
-    							<li><a href="#">Tabs</a></li>
-    							<li><a href="#">Pills</a></li>
-    							<li><a href="#">Justified</a></li>
+    							<li class="dropdown-header">WIRELESS SYSTEMS</li>
+                  <li class="divider"></li>
+                  <li class="dropdown-header">LENS ACCESSORIES</li>
+                  <li class="divider"></li>
     						</ul>
     					</li>
-    					<li class="col-sm-3">
+
+              <li class="col-sm-3">
     						<ul>
-    							<li class="dropdown-header">Navbar</li>
-    							<li><a href="#">Default navbar</a></li>
-    							<li><a href="#">Buttons</a></li>
-    							<li><a href="#">Text</a></li>
-    							<li><a href="#">Non-nav links</a></li>
-    							<li><a href="#">Component alignment</a></li>
-    							<li><a href="#">Fixed to top</a></li>
-    							<li><a href="#">Fixed to bottom</a></li>
-    							<li><a href="#">Static top</a></li>
-    							<li><a href="#">Inverted navbar</a></li>
+                  <li class="dropdown-header">LIGHTING & STAGE EFFECTS</li>
+    							<li class="divider"></li>
+    							<li class="dropdown-header">VIDEO MIXERS & sWITCHING</li>
+                  <li class="divider"></li>
+                  <li class="dropdown-header">CAMERA BATTERIES</li>
+                  <li class="divider"></li>
     						</ul>
     					</li>
     				</ul>
     			</li>
-          <li><a href="#">HOME AUDIO</a></li>
-          <li><a href="#">DJ GEAR</a></li>
+
+        <li class="dropdown dropdown-large cent">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">HOME AUDIO</a>
+          <ul class="dropdown-menu dropdown-menu-large row">
+            <li class="col-sm-3">
+              <ul>
+                <li class="dropdown-header">MULTIMEDIA SPEAKERS</li>
+                <li class="divider"></li>
+                <li class="dropdown-header">WIRELESS SPEAKERS</li>
+                <li class="divider"></li>
+              </ul>
+            </li>
+
+            <li class="col-sm-3">
+              <ul>
+                <li class="dropdown-header">BOOKSHELF SPEAKERS</li>
+                <li class="divider"></li>
+                <li class="dropdown-header">AUDIO SPEAKERS</li>
+                <li class="divider"></li>
+              </ul>
+            </li>
+
+            <li class="col-sm-3">
+              <ul>
+                <li class="dropdown-header">BLUETOOTH SPEAKERS</li>
+                <li class="divider"></li>
+                <li class="dropdown-header">SOUNDBAR SPEAKERS</li>
+                <li class="divider"></li>
+              </ul>
+            </li>
+
+            <li class="col-sm-3">
+              <ul>
+                <li class="dropdown-header">SUBWOOFERS SPEAKERS</li>
+                <li class="divider"></li>
+              </ul>
+            </li>
+          </ul>
+          </li>
+
+          <li class="dropdown dropdown-large cent">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">DJ GEAR</a>
+            <ul class="dropdown-menu dropdown-menu-large row">
+              <li class="col-sm-3">
+                <ul>
+                  <li class="dropdown-header">CD, MP3 & MEDIA PLAYERS</li>
+                  <li class="divider"></li>
+                  <li class="dropdown-header">DJ CONTROLLERS & INTERFACES</li>
+                  <li class="divider"></li>
+                  <li class="dropdown-header">DJ ACCESSORIES</li>
+                  <li class="divider"></li>
+                </ul>
+              </li>
+
+              <li class="col-sm-3">
+                <ul>
+                  <li class="dropdown-header">DJ SOFTWARE</li>
+                  <li class="divider"></li>
+                  <li class="dropdown-header">PREMIUM DJ CONTROLLER INTERFACES</li>
+                  <li class="divider"></li>
+                  <li class="dropdown-header">DJ HEADPHONES</li>
+                  <li class="divider"></li>
+                </ul>
+              </li>
+
+              <li class="col-sm-3">
+                <ul>
+                  <li class="dropdown-header">GROOVE PRODUCTION</li>
+                  <li class="divider"></li>
+                  <li class="dropdown-header">PREMIUM GROOVE PRODUCTION GEAR</li>
+                  <li class="divider"></li>
+                  <li class="dropdown-header">DJ MIXERS</li>
+                  <li class="divider"></li>
+                </ul>
+              </li>
+
+              <li class="col-sm-3">
+                <ul>
+                  <li class="dropdown-header">KARAOKE</li>
+                  <li class="divider"></li>
+                  <li class="dropdown-header">TURNTABLE ACCESSORIES</li>
+                  <li class="divider"></li>
+                  <li class="dropdown-header">DJ PACKAGES</li>
+                  <li class="divider"></li>
+                  <li class="dropdown-header">TURNTABLES</li>
+                  <li class="divider"></li>
+                </ul>
+              </li>
+            </ul>
+            </li>
+
           <li><a href="#">ZINE</a></li>
           <li><a href="#">ENTERTAINMENT</a></li>
         </ul>
