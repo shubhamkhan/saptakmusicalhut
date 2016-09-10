@@ -1,12 +1,16 @@
+/* Body top padding set */
 body {
-  padding-top: 100px;
+  padding-top: 70px;
 }
+
 /* Center Manu */
 .navbar .navbar-nav {
   display: inline-block;
   float: none;
   vertical-align: top;
 }
+
+/* Center Manu */
 .navbar .navbar-collapse {
   text-align: center;
 }
@@ -28,22 +32,36 @@ body {
   }
 }
 
-/* Dropdown Large Div */
+/* Dropdown Large Div Static*/
 .dropdown-large {
   position: static !important;
 }
+
+/* Dropdown Large Div left right margin space*/
 .dropdown-menu-large {
   margin-left: 16px;
   margin-right: 16px;
   padding: 20px 0px;
 }
+
+/* Dropdown Large Div defult margin and padding contol*/
 .dropdown-menu-large > li > ul {
   padding: 0;
   margin: 0;
 }
+
+/* Dropdown Large Div defult list bulet pointing remove*/
 .dropdown-menu-large > li > ul > li {
   list-style: none;
 }
+
+/* Dropdown Large Div Header manu config*/
+.dropdown-menu-large .dropdown-header > a {
+  color: #428bca;
+  padding-left: 0px;
+  font-size: 12px;
+}
+
 .dropdown-menu-large > li > ul > li > a {
   display: block;
   padding: 3px 20px;
@@ -52,17 +70,15 @@ body {
   line-height: 1.428571429;
   color: #333333;
   white-space: normal;
+  font-size: 10px;
 }
+
+/* Dropdown Large Div list <a> tag underline remove*/
 .dropdown-menu-large > li ul > li > a:hover,
 .dropdown-menu-large > li ul > li > a:focus {
   text-decoration: none;
-  color: #262626;
-  background-color: #f5f5f5;
 }
-.dropdown-menu-large .dropdown-header {
-  color: #428bca;
-  font-size: 18px;
-}
+
 @media (max-width: 768px) {
   .dropdown-menu-large {
     margin-left: 0 ;
