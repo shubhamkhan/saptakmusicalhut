@@ -291,7 +291,7 @@
         <li data-target="#carousel-example-generic" data-slide-to="2"></li>
       </ol>
       <div class="carousel-inner" role="listbox">
-        <!-- 1280 x 200  img used-->
+        <!-- 1920 x 450 img used-->
         <div class="item active">
           <img src="../images/icon/h2.jpg" alt="First slide">
         </div>
@@ -313,9 +313,117 @@
     </div>
     <div class="container">
       <div class="page-header">
+        <div>
+          <div class="col-xs-12 col-sm-6 col-md-4">
+              <div class="hovereffect thumbnail">
+                  <img class="img-responsive" src="../images/icon/git.jpg" alt="">
+                  <div class="overlay">
+                     <h2>Hover effect 4</h2>
+                     <a class="info" href="#">SHOW</a>
+                  </div>
+              </div>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-4">
+              <div class="hovereffect thumbnail">
+                  <img class="img-responsive" src="../images/icon/git.jpg" alt="">
+                  <div class="overlay">
+                     <h2>Hover effect 4</h2>
+                     <a class="info" href="#">SHOW</a>
+                  </div>
+              </div>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-4">
+              <div class="hovereffect thumbnail">
+                  <img class="img-responsive" src="../images/icon/git.jpg" alt="">
+                  <div class="overlay">
+                     <h2>Hover effect 4</h2>
+                     <a class="info" href="#">SHOW</a>
+                  </div>
+              </div>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-4">
+              <div class="hovereffect thumbnail">
+                  <img class="img-responsive" src="../images/icon/git.jpg" alt="">
+                  <div class="overlay">
+                     <h2>Hover effect 4</h2>
+                     <a class="info" href="#">SHOW</a>
+                  </div>
+              </div>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-4">
+              <div class="hovereffect thumbnail">
+                  <img class="img-responsive" src="../images/icon/git.jpg" alt="">
+                  <div class="overlay">
+                     <h2>Hover effect 4</h2>
+                     <a class="info" href="#">SHOW</a>
+                  </div>
+              </div>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-4">
+              <div class="hovereffect thumbnail">
+                  <img class="img-responsive" src="../images/icon/git.jpg" alt="">
+                  <div class="overlay">
+                     <h2>Hover effect 4</h2>
+                     <a class="info" href="#">SHOW</a>
+                  </div>
+              </div>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-4">
+              <div class="hovereffect thumbnail">
+                  <img class="img-responsive" src="../images/icon/git.jpg" alt="">
+                  <div class="overlay">
+                     <h2>Hover effect 4</h2>
+                     <a class="info" href="#">SHOW</a>
+                  </div>
+              </div>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-4">
+              <div class="hovereffect thumbnail">
+                  <img class="img-responsive" src="../images/icon/git.jpg" alt="">
+                  <div class="overlay">
+                     <h2>Hover effect 4</h2>
+                     <a class="info" href="#">SHOW</a>
+                  </div>
+              </div>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-4">
+              <div class="hovereffect thumbnail">
+                  <img class="img-responsive" src="../images/icon/git.jpg" alt="">
+                  <div class="overlay">
+                     <h2>Hover effect 4</h2>
+                     <a class="info" href="#">SHOW</a>
+                  </div>
+              </div>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-4">
+              <div class="hovereffect thumbnail">
+                  <img class="img-responsive" src="../images/icon/git.jpg" alt="">
+                  <div class="overlay">
+                     <h2>Hover effect 4</h2>
+                     <a class="info" href="#">SHOW</a>
+                  </div>
+              </div>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-4">
+              <div class="hovereffect thumbnail">
+                  <img class="img-responsive" src="../images/icon/git.jpg" alt="">
+                  <div class="overlay">
+                     <h2>Hover effect 4</h2>
+                     <a class="info" href="#">SHOW</a>
+                  </div>
+              </div>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-4">
+              <div class="hovereffect thumbnail">
+                  <img class="img-responsive" src="../images/icon/git.jpg" alt="">
+                  <div class="overlay">
+                     <h2>Hover effect 4</h2>
+                     <a class="info" href="#">SHOW</a>
+                  </div>
+              </div>
+          </div>
+        </div>
       </div>
-      <p class="lead">Pin a fixed-height footer to the bottom of the viewport in desktop browsers with this custom HTML and CSS. A fixed navbar has been added with <code>padding-top: 60px;</code> on the <code>body &gt; .container</code>.</p>
-      <p>Back to <a href="../sticky-footer">the default sticky footer</a> minus the navbar.</p>
     </div>
   </section>
   <footer class="footer">
