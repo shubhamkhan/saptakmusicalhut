@@ -311,7 +311,7 @@
         <span class="sr-only">Next</span>
       </a>
     </div>
-    <div class="container">
+    <div class="">
       <div class="page-header">
         <div>
           <div class="col-xs-12 col-sm-6 col-md-4">
@@ -424,6 +424,342 @@
           </div>
         </div>
       </div>
+      <div class="col-md-12">
+        <h3>RECOMMENDED FOR YOU</h3>
+        <div class="well-none">
+          <div id="myCarousel" class="carousel slide">
+          <!-- Carousel slide items down -->
+            <div class="carousel-inner">
+              <div class="item active">
+                <div class="row">
+                  <div class="col-sm-3 col-xs-3 wall-entry">
+                    <a href="#">
+                    <div class="hoeffect thumbnail">
+                      <img src="../images/icon/plshold.jpg" alt="...">
+                      <div class="caption">
+                        <p class="inm">Baba Surjan Singh Tabla</p>
+                        <p class="idec">Dayan - 14 cm, Bayan - 22 cm</p>
+                        <p class="irs">&#8377;4,599</p>
+                      </div>
+                    </div>
+                    </a>
+                  </div>
+                  <div class="col-sm-3 col-xs-3 wall-entry">
+                    <a href="#">
+                    <div class="hoeffect thumbnail">
+                      <img src="../images/icon/plshold.jpg" alt="...">
+                      <div class="caption">
+                        <p class="inm">Baba Surjan Singh Tabla</p>
+                        <p class="idec">Dayan - 14 cm, Bayan - 22 cm</p>
+                        <p class="irs">&#8377;4,599</p>
+                      </div>
+                    </div>
+                    </a>
+                  </div>
+                  <div class="col-sm-3 col-xs-3 wall-entry">
+                    <a href="#">
+                    <div class="hoeffect thumbnail">
+                      <img src="../images/icon/plshold.jpg" alt="...">
+                      <div class="caption">
+                        <p class="inm">Baba Surjan Singh Tabla</p>
+                        <p class="idec">Dayan - 14 cm, Bayan - 22 cm</p>
+                        <p class="irs">&#8377;4,599</p>
+                      </div>
+                    </div>
+                    </a>
+                  </div>
+                  <div class="col-sm-3 col-xs-3 wall-entry">
+                    <a href="#">
+                    <div class="hoeffect thumbnail">
+                      <img src="../images/icon/plshold.jpg" alt="...">
+                      <div class="caption">
+                        <p class="inm">Baba Surjan Singh Tabla</p>
+                        <p class="idec">Dayan - 14 cm, Bayan - 22 cm</p>
+                        <p class="irs">&#8377;4,599</p>
+                      </div>
+                    </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="row">
+                  <div class="col-sm-3 col-xs-3 wall-entry">
+                    <a href="#">
+                    <div class="hoeffect thumbnail">
+                      <img src="../images/icon/plshold.jpg" alt="...">
+                      <div class="caption">
+                        <p class="inm">Baba Surjan Singh Tabla</p>
+                        <p class="idec">Dayan - 14 cm, Bayan - 22 cm</p>
+                        <p class="irs">&#8377;4,599</p>
+                      </div>
+                    </div>
+                    </a>
+                  </div>
+                  <div class="col-sm-3 col-xs-3 wall-entry">
+                    <a href="#">
+                    <div class="hoeffect thumbnail">
+                      <img src="../images/icon/plshold.jpg" alt="...">
+                      <div class="caption">
+                        <p class="inm">Baba Surjan Singh Tabla</p>
+                        <p class="idec">Dayan - 14 cm, Bayan - 22 cm</p>
+                        <p class="irs">&#8377;4,599</p>
+                      </div>
+                    </div>
+                    </a>
+                  </div>
+                  <div class="col-sm-3 col-xs-3 wall-entry">
+                    <a href="#">
+                    <div class="hoeffect thumbnail">
+                      <img src="../images/icon/plshold.jpg" alt="...">
+                      <div class="caption">
+                        <p class="inm">Baba Surjan Singh Tabla</p>
+                        <p class="idec">Dayan - 14 cm, Bayan - 22 cm</p>
+                        <p class="irs">&#8377;4,599</p>
+                      </div>
+                    </div>
+                    </a>
+                  </div>
+                  <div class="col-sm-3 col-xs-3 wall-entry">
+                    <a href="#">
+                    <div class="hoeffect thumbnail">
+                      <img src="../images/icon/plshold.jpg" alt="...">
+                      <div class="caption">
+                        <p class="inm">Baba Surjan Singh Tabla</p>
+                        <p class="idec">Dayan - 14 cm, Bayan - 22 cm</p>
+                        <p class="irs">&#8377;4,599</p>
+                      </div>
+                    </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="row">
+                  <div class="col-sm-3 col-xs-3 wall-entry">
+                    <a href="#">
+                    <div class="hoeffect thumbnail">
+                      <img src="../images/icon/plshold.jpg" alt="...">
+                      <div class="caption">
+                        <p class="inm">Baba Surjan Singh Tabla</p>
+                        <p class="idec">Dayan - 14 cm, Bayan - 22 cm</p>
+                        <p class="irs">&#8377;4,599</p>
+                      </div>
+                    </div>
+                    </a>
+                  </div>
+                  <div class="col-sm-3 col-xs-3 wall-entry">
+                    <a href="#">
+                    <div class="hoeffect thumbnail">
+                      <img src="../images/icon/plshold.jpg" alt="...">
+                      <div class="caption">
+                        <p class="inm">Baba Surjan Singh Tabla</p>
+                        <p class="idec">Dayan - 14 cm, Bayan - 22 cm</p>
+                        <p class="irs">&#8377;4,599</p>
+                      </div>
+                    </div>
+                    </a>
+                  </div>
+                  <div class="col-sm-3 col-xs-3 wall-entry">
+                    <a href="#">
+                    <div class="hoeffect thumbnail">
+                      <img src="../images/icon/plshold.jpg" alt="...">
+                      <div class="caption">
+                        <p class="inm">Baba Surjan Singh Tabla</p>
+                        <p class="idec">Dayan - 14 cm, Bayan - 22 cm</p>
+                        <p class="irs">&#8377;4,599</p>
+                      </div>
+                    </div>
+                    </a>
+                  </div>
+                  <div class="col-sm-3 col-xs-3 wall-entry">
+                    <a href="#">
+                    <div class="hoeffect thumbnail">
+                      <img src="../images/icon/plshold.jpg" alt="...">
+                      <div class="caption">
+                        <p class="inm">Baba Surjan Singh Tabla</p>
+                        <p class="idec">Dayan - 14 cm, Bayan - 22 cm</p>
+                        <p class="irs">&#8377;4,599</p>
+                      </div>
+                    </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <a class="left carousel-control" href="#myCarousel" data-slide="prev"><i class="fa fa-chevron-left fa-4"></i></a>
+            <a class="right carousel-control" href="#myCarousel" data-slide="next"><i class="fa fa-chevron-right fa-4"></i></a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-12">
+        <h3>TOP SELLING PRODUCTS</h3>
+        <div class="well-none">
+          <div id="myCarousel1" class="carousel slide">
+          <!-- Carousel slide items down -->
+            <div class="carousel-inner">
+              <div class="item active">
+                <div class="row">
+                  <div class="col-sm-3 col-xs-3 wall-entry">
+                    <a href="#">
+                    <div class="hoeffect thumbnail">
+                      <img src="../images/icon/plshold.jpg" alt="...">
+                      <div class="caption">
+                        <p class="inm">Baba Surjan Singh Tabla</p>
+                        <p class="idec">Dayan - 14 cm, Bayan - 22 cm</p>
+                        <p class="irs">&#8377;4,599</p>
+                      </div>
+                    </div>
+                    </a>
+                  </div>
+                  <div class="col-sm-3 col-xs-3 wall-entry">
+                    <a href="#">
+                    <div class="hoeffect thumbnail">
+                      <img src="../images/icon/plshold.jpg" alt="...">
+                      <div class="caption">
+                        <p class="inm">Baba Surjan Singh Tabla</p>
+                        <p class="idec">Dayan - 14 cm, Bayan - 22 cm</p>
+                        <p class="irs">&#8377;4,599</p>
+                      </div>
+                    </div>
+                    </a>
+                  </div>
+                  <div class="col-sm-3 col-xs-3 wall-entry">
+                    <a href="#">
+                    <div class="hoeffect thumbnail">
+                      <img src="../images/icon/plshold.jpg" alt="...">
+                      <div class="caption">
+                        <p class="inm">Baba Surjan Singh Tabla</p>
+                        <p class="idec">Dayan - 14 cm, Bayan - 22 cm</p>
+                        <p class="irs">&#8377;4,599</p>
+                      </div>
+                    </div>
+                    </a>
+                  </div>
+                  <div class="col-sm-3 col-xs-3 wall-entry">
+                    <a href="#">
+                    <div class="hoeffect thumbnail">
+                      <img src="../images/icon/plshold.jpg" alt="...">
+                      <div class="caption">
+                        <p class="inm">Baba Surjan Singh Tabla</p>
+                        <p class="idec">Dayan - 14 cm, Bayan - 22 cm</p>
+                        <p class="irs">&#8377;4,599</p>
+                      </div>
+                    </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="row">
+                  <div class="col-sm-3 col-xs-3 wall-entry">
+                    <a href="#">
+                    <div class="hoeffect thumbnail">
+                      <img src="../images/icon/plshold.jpg" alt="...">
+                      <div class="caption">
+                        <p class="inm">Baba Surjan Singh Tabla</p>
+                        <p class="idec">Dayan - 14 cm, Bayan - 22 cm</p>
+                        <p class="irs">&#8377;4,599</p>
+                      </div>
+                    </div>
+                    </a>
+                  </div>
+                  <div class="col-sm-3 col-xs-3 wall-entry">
+                    <a href="#">
+                    <div class="hoeffect thumbnail">
+                      <img src="../images/icon/plshold.jpg" alt="...">
+                      <div class="caption">
+                        <p class="inm">Baba Surjan Singh Tabla</p>
+                        <p class="idec">Dayan - 14 cm, Bayan - 22 cm</p>
+                        <p class="irs">&#8377;4,599</p>
+                      </div>
+                    </div>
+                    </a>
+                  </div>
+                  <div class="col-sm-3 col-xs-3 wall-entry">
+                    <a href="#">
+                    <div class="hoeffect thumbnail">
+                      <img src="../images/icon/plshold.jpg" alt="...">
+                      <div class="caption">
+                        <p class="inm">Baba Surjan Singh Tabla</p>
+                        <p class="idec">Dayan - 14 cm, Bayan - 22 cm</p>
+                        <p class="irs">&#8377;4,599</p>
+                      </div>
+                    </div>
+                    </a>
+                  </div>
+                  <div class="col-sm-3 col-xs-3 wall-entry">
+                    <a href="#">
+                    <div class="hoeffect thumbnail">
+                      <img src="../images/icon/plshold.jpg" alt="...">
+                      <div class="caption">
+                        <p class="inm">Baba Surjan Singh Tabla</p>
+                        <p class="idec">Dayan - 14 cm, Bayan - 22 cm</p>
+                        <p class="irs">&#8377;4,599</p>
+                      </div>
+                    </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="row">
+                  <div class="col-sm-3 col-xs-3 wall-entry">
+                    <a href="#">
+                    <div class="hoeffect thumbnail">
+                      <img src="../images/icon/plshold.jpg" alt="...">
+                      <div class="caption">
+                        <p class="inm">Baba Surjan Singh Tabla</p>
+                        <p class="idec">Dayan - 14 cm, Bayan - 22 cm</p>
+                        <p class="irs">&#8377;4,599</p>
+                      </div>
+                    </div>
+                    </a>
+                  </div>
+                  <div class="col-sm-3 col-xs-3 wall-entry">
+                    <a href="#">
+                    <div class="hoeffect thumbnail">
+                      <img src="../images/icon/plshold.jpg" alt="...">
+                      <div class="caption">
+                        <p class="inm">Baba Surjan Singh Tabla</p>
+                        <p class="idec">Dayan - 14 cm, Bayan - 22 cm</p>
+                        <p class="irs">&#8377;4,599</p>
+                      </div>
+                    </div>
+                    </a>
+                  </div>
+                  <div class="col-sm-3 col-xs-3 wall-entry">
+                    <a href="#">
+                    <div class="hoeffect thumbnail">
+                      <img src="../images/icon/plshold.jpg" alt="...">
+                      <div class="caption">
+                        <p class="inm">Baba Surjan Singh Tabla</p>
+                        <p class="idec">Dayan - 14 cm, Bayan - 22 cm</p>
+                        <p class="irs">&#8377;4,599</p>
+                      </div>
+                    </div>
+                    </a>
+                  </div>
+                  <div class="col-sm-3 col-xs-3 wall-entry">
+                    <a href="#">
+                    <div class="hoeffect thumbnail">
+                      <img src="../images/icon/plshold.jpg" alt="...">
+                      <div class="caption">
+                        <p class="inm">Baba Surjan Singh Tabla</p>
+                        <p class="idec">Dayan - 14 cm, Bayan - 22 cm</p>
+                        <p class="irs">&#8377;4,599</p>
+                      </div>
+                    </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <a class="left carousel-control" href="#myCarousel1" data-slide="prev"><i class="fa fa-chevron-left fa-4"></i></a>
+            <a class="right carousel-control" href="#myCarousel1" data-slide="next"><i class="fa fa-chevron-right fa-4"></i></a>
+          </div>
+        </div>
+      </div>
     </div>
   </section>
   <footer class="footer">
@@ -455,28 +791,6 @@
     <script src="../js/sb-admin-2.js"></script>
     <!-- Custom JavaScript -->
     <script src="../js/script.js"></script>
-    <script>
-    $(document).ready(function() {
-       $('#dataTables-example').DataTable({
-               responsive: true
-       });
-    });
-    $(document).ready(function() {
-       $(".nav li.disabled a").click(function() {
-         return false;
-       });
-    });
-    var onResize = function() {
-    // apply dynamic padding at the top of the body according to the fixed navbar height
-      $("body").css("padding-top", $(".navbar-fixed-top").height());
-    };
-    // attach the function to the window resize event
-    $(window).resize(onResize);
-    // call it also when the page is ready after load or reload
-    $(function() {
-      onResize();
-    });
-    </script>
   </footer>
 </body>
 </html>

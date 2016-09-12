@@ -1,6 +1,6 @@
 /* Body top padding set */
 body {
-  padding-top: 70px;
+  padding-top: 75px;
 }
 
 /* Center Manu */
@@ -194,4 +194,61 @@ body {
    -webkit-transform: scale(1);
    -ms-transform: scale(1);
    transform: scale(1);
+ }
+
+/* carousel image left shadow effect remove */
+.carousel-control.left {
+	background-image: none;
+}
+
+/* carousel image right shadow effect remove */
+.carousel-control.right {
+  background-image: none;
+}
+
+/* carousel image over arrow effect */
+.carousel-control {
+  padding-top:12.25%;
+  width:5%;
+}
+
+/* carousel image hover underline text remove */
+.wall-entry a:hover {
+  text-decoration: none;
+}
+
+/* carousel item name text effect */
+.inm {
+  text-align: center;
+  font-size: 16px;
+  color: #000;
+  font-weight: bold;
+}
+
+/* carousel item decraption text effect */
+.idec {
+  text-align: center;
+  font-size: 12px;
+}
+
+/* carousel item RS. text effect */
+.irs {
+  text-align: center;
+  color: #008000;
+  font-size: 15px;
+}
+
+/* carousel item image Zoom */
+ .hoeffect img {
+   display: block;
+   position: relative;
+   -webkit-transition: all 0.4s ease-in;
+   transition: all 0.4s ease-in;
+ }
+
+/* carousel item image over zoom scale set */
+ .hoeffect:hover img {
+   -webkit-transform: scale(1.03);
+   -ms-transform: scale(1.03);
+   transform: scale(1.03);
  }
