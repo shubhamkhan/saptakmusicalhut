@@ -844,6 +844,39 @@
       </div>
     </div>
   </section>
+
+  <footer class="footer navbar-inverse">
+    <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-6 col-md-3">
+        <h3>Store Information</h3>
+        <li><a href="#" color="#ffffff">About Us</a></li>
+        <li><a href="#">Money Back Guarantee</a></li>
+        <li><a href="#">Buy with Confidence</a></li>
+        <li><a href="#">Career Opportunities</a></li>
+        <li><a href="#">Partner with us</a></li>
+        <li><a href="#">Privacy Policy</a></li>
+        <li><a href="#">Terms of Use</a></li>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-3">
+        <h3>Support & Service</h3>
+        <li href=""></li>
+        <li href=""></li>
+        <li href=""></li>
+        <li href=""></li>
+        <li href=""></li>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-3">
+        <h3>Social Connection</h3>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-3">
+        <h3>News & Updates</h3>
+      </div>
+      </div>
+  </div>
+  <hr/>
+ </footer>
+
   <footer class="footer">
     <hr/>
     <div class="container">

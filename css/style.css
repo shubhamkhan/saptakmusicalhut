@@ -263,3 +263,10 @@ body {
    -ms-transform: scale(1.03);
    transform: scale(1.03);
  }
+
+/* footer1 */
+  .navbar-inverse {
+    color: #ffffff;
+  }
+
+
