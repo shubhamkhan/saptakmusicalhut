@@ -95,6 +95,17 @@ body {
   }
 }
 
+.no-border {
+  outline: none;
+  border-top: 0px !important;
+  border-right: 0px !important;
+  border-left: 0px !important;
+  border-radius: 2px !important;
+  -webkit-box-shadow: none !important;
+  -moz-box-shadow: none !important;
+  box-shadow: none !important;
+}
+
 /* Manu Underline Broder*/
 .navbar-default .navbar-nav > li ul > li > a:hover,
 .navbar-default .navbar-nav > li ul > li > a:focus,

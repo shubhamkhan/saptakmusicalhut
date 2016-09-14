@@ -63,6 +63,88 @@
               <button class="glyphicon glyphicon-search btn btn-default" type="button"></button>
             </span>
           </div>
+          <div class="input-group">
+          <!-- Trigger the modal with a button -->
+            <label class="form-check-inline">
+              <button type="button" class="btn btn-default glyphicon glyphicon-user" data-toggle="modal" data-target="#myModal"></button>
+            </label>
+            <label class="form-check-inline">
+              <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal1">Sign Up</button>
+            </label>
+          </div>
+          <!-- Login Modal -->
+          <div class="modal fade bs-example-modal-sm" tabindex="-1" id="myModal" role="dialog" aria-labelledby="mySmallModalLabel">
+            <div class="modal-dialog modal-sm" role="document">
+              <!-- Login Modal content-->
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                  <h4 class="modal-title center">Log In</h4>
+                </div>
+                <div class="modal-body">
+                  <form>
+                    <div class="form-group">
+                      <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+                    </div>
+                    <div class="form-group">
+                      <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+                    </div>
+                    <p><a href="#">Forgot password?</a></p>
+                  <div class="">
+                    <button type="submit" class="btn btn-warning col-xs-offset-5 col-sm-offset-5 col-md-offset-5 centered">Log in</button>
+                  </div>
+                  </form>
+                </div>
+                <div class="modal-footer">
+                  <p class="center">Don't have an account? <a href="#" class="close" data-dismiss="modal" data-toggle="modal" data-target="#myModal1"> Sign up</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- SignUp Modal -->
+          <div class="modal fade" id="myModal1" role="dialog">
+            <div class="modal-dialog">
+              <!-- SignUp Modal content-->
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                  <h4 class="modal-title">Sign Up</h4>
+                </div>
+                <div class="modal-body">
+                  <form>
+                    <div class="form-group">
+                      <label for="exampleInputEmail1">First Name</label>
+                      <input type="text" class="form-control" id="first_name" placeholder="First Name">
+                    </div>
+                    <div class="form-group">
+                      <label for="exampleInputEmail1">Last Name</label>
+                      <input type="text" class="form-control" id="last_name" placeholder="Last Name">
+                    </div>
+                    <div class="form-group">
+                      <label for="exampleInputEmail1">Email address</label>
+                      <input type="email" class="form-control" id="Input_Email" placeholder="Email">
+                    </div>
+                    <div class="form-group">
+                      <label for="exampleInputPassword1">Password</label>
+                      <input type="password" class="form-control" id="Input_Password" placeholder="Password">
+                    </div>
+                    <div class="form-group">
+                      <label for="exampleInputPassword1">Password</label>
+                      <input type="password" class="form-control" id="Input_Password1" placeholder="Password">
+                    </div>
+                    <div class="form-group">
+                      <label for="exampleInputEmail1">Phone No</label>
+                      <input type="text" class="form-control" id="Input_Phone" placeholder="Phone No">
+                    </div>
+                    <button type="submit" class="btn btn-success">Sign Up</button>
+                  </form>
+                </div>
+                <div class="modal-footer">
+                  <p class="center">Saptak Musical Hut</p>
+                </div>
+              </div>
+            </div>
+          </div>
         </form>
       </div>
       <div class="row">
