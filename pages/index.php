@@ -61,16 +61,9 @@
             <input type="text" class="form-control" placeholder="Search for...">
             <span class="input-group-btn">
               <button class="glyphicon glyphicon-search btn btn-default" type="button"></button>
-            </span>
-          </div>
-          <div class="input-group">
-          <!-- Trigger the modal with a button -->
-            <label class="form-check-inline">
+              <!-- Trigger the modal with a button -->
               <button type="button" class="btn btn-default glyphicon glyphicon-user" data-toggle="modal" data-target="#myModal"></button>
-            </label>
-            <label class="form-check-inline">
-              <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal1">Sign Up</button>
-            </label>
+            </span>
           </div>
           <!-- Login Modal -->
           <div class="modal fade bs-example-modal-sm" tabindex="-1" id="myModal" role="dialog" aria-labelledby="mySmallModalLabel">
@@ -96,7 +89,7 @@
                   </form>
                 </div>
                 <div class="modal-footer">
-                  <p class="center">Don't have an account? <a href="#" class="close" data-dismiss="modal" data-toggle="modal" data-target="#myModal1"> Sign up</a></p>
+                  <p class="center">Don't have an account? <a href="#" data-dismiss="modal" data-toggle="modal" data-target="#myModal1"> Sign up</a></p>
                 </div>
               </div>
             </div>
@@ -108,39 +101,31 @@
               <div class="modal-content">
                 <div class="modal-header">
                   <button type="button" class="close" data-dismiss="modal">&times;</button>
-                  <h4 class="modal-title">Sign Up</h4>
+                  <h4 class="modal-title center">Sign Up</h4>
                 </div>
                 <div class="modal-body">
                   <form>
                     <div class="form-group">
-                      <label for="exampleInputEmail1">First Name</label>
                       <input type="text" class="form-control" id="first_name" placeholder="First Name">
                     </div>
                     <div class="form-group">
-                      <label for="exampleInputEmail1">Last Name</label>
                       <input type="text" class="form-control" id="last_name" placeholder="Last Name">
                     </div>
                     <div class="form-group">
-                      <label for="exampleInputEmail1">Email address</label>
                       <input type="email" class="form-control" id="Input_Email" placeholder="Email">
                     </div>
                     <div class="form-group">
-                      <label for="exampleInputPassword1">Password</label>
                       <input type="password" class="form-control" id="Input_Password" placeholder="Password">
                     </div>
                     <div class="form-group">
-                      <label for="exampleInputPassword1">Password</label>
-                      <input type="password" class="form-control" id="Input_Password1" placeholder="Password">
-                    </div>
-                    <div class="form-group">
-                      <label for="exampleInputEmail1">Phone No</label>
                       <input type="text" class="form-control" id="Input_Phone" placeholder="Phone No">
                     </div>
-                    <button type="submit" class="btn btn-success">Sign Up</button>
+                    <button type="submit" class="btn btn-warning col-xs-offset-5 col-sm-offset-5 col-md-offset-5 centered">Start Now</button>
+                    <p class="center">By starting, you agree to Saptak Musical Hut's <a href="#">Terms of Service</a> and <a href="#">Privacy Policy.</a></p>
                   </form>
                 </div>
-                <div class="modal-footer">
-                  <p class="center">Saptak Musical Hut</p>
+                <div class="modal-footer center">
+                  <p class="">Have an account? <a href="#" data-dismiss="modal" data-toggle="modal" data-target="#myModal">Log in</a></p>
                 </div>
               </div>
             </div>
@@ -353,8 +338,6 @@
                 </li>
               </ul>
             </li>
-            <li><a href="#">ZINE</a></li>
-            <li><a href="#">ENTERTAINMENT</a></li>
           </ul>
         </div> <!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->
@@ -393,7 +376,7 @@
         <span class="sr-only">Next</span>
       </a>
     </div>
-    <div class="">
+    <div class="container">
       <div class="page-header">
         <div>
           <div class="col-xs-12 col-sm-6 col-md-4">
@@ -844,44 +827,39 @@
       </div>
     </div>
   </section>
-
-  <footer class="footer navbar-inverse">
-    <div class="container">
-    <div class="row">
-      <div class="col-xs-12 col-sm-6 col-md-3">
-        <h3>Store Information</h3>
-        <li><a href="#" color="#ffffff">About Us</a></li>
-        <li><a href="#">Money Back Guarantee</a></li>
-        <li><a href="#">Buy with Confidence</a></li>
-        <li><a href="#">Career Opportunities</a></li>
-        <li><a href="#">Partner with us</a></li>
-        <li><a href="#">Privacy Policy</a></li>
-        <li><a href="#">Terms of Use</a></li>
-      </div>
-      <div class="col-xs-12 col-sm-6 col-md-3">
-        <h3>Support & Service</h3>
-        <li href=""></li>
-        <li href=""></li>
-        <li href=""></li>
-        <li href=""></li>
-        <li href=""></li>
-      </div>
-      <div class="col-xs-12 col-sm-6 col-md-3">
-        <h3>Social Connection</h3>
-      </div>
-      <div class="col-xs-12 col-sm-6 col-md-3">
-        <h3>News & Updates</h3>
-      </div>
-      </div>
-  </div>
-  <hr/>
- </footer>
-
   <footer class="footer">
-    <hr/>
     <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-sm-6 col-md-3">
+          <h3>Store Information</h3>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Money Back Guarantee</a></li>
+          <li><a href="#">Buy with Confidence</a></li>
+          <li><a href="#">Career Opportunities</a></li>
+          <li><a href="#">Partner with us</a></li>
+          <li><a href="#">Privacy Policy</a></li>
+          <li><a href="#">Terms of Use</a></li>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-3">
+          <h3>Support &amp; Service</h3>
+          <li><a href="#">Order Lookup</a></li>
+          <li><a href="#">View all Manufacturers</a></li>
+          <li><a href="#">Contact Us</a></li>
+          <li><a href="#">Frequently Asked Questions</a></li>
+          <li><a href="#">Points &amp; Rewards&#47;Loyalty Program</a></li>
+          <li><a href="#">Shopping Guarantee</a></li>
+          <li><a href="#">Standard &amp; Premium Warranty Plans</a></li>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-3">
+          <h3>Social Connection</h3>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-3">
+          <h3>News &amp; Updates</h3>
+        </div>
+      </div>
+      <hr/>
       <div class="center text-muted">
-        Copyright &copy; 2016. All rights reserved.
+        Copyright &copy; 2016 Saptak Musical Hut &#124; Saptak Musical Hut Private Limited
       </div>
     </div>
     <!-- jQuery Core JavaScript -->

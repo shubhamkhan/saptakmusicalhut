@@ -1,6 +1,6 @@
 /* Body top padding set */
 body {
-  padding-top: 75px;
+  padding-top: 100px;
 }
 
 /* Center Manu */
@@ -93,17 +93,6 @@ body {
   .dropdown-menu-large .dropdown-header {
     padding: 3px 15px !important;
   }
-}
-
-.no-border {
-  outline: none;
-  border-top: 0px !important;
-  border-right: 0px !important;
-  border-left: 0px !important;
-  border-radius: 2px !important;
-  -webkit-box-shadow: none !important;
-  -moz-box-shadow: none !important;
-  box-shadow: none !important;
 }
 
 /* Manu Underline Broder*/
@@ -263,10 +252,3 @@ body {
    -ms-transform: scale(1.03);
    transform: scale(1.03);
  }
-
-/* footer1 */
-  .navbar-inverse {
-    color: #ffffff;
-  }
-
-
