@@ -354,19 +354,25 @@
         <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
         <li data-target="#carousel-example-generic" data-slide-to="1"></li>
         <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="3"></li>
       </ol>
+    <!-- Wrapper for slides -->
       <div class="carousel-inner" role="listbox">
         <!-- 1920 x 450 img used-->
         <div class="item active">
-          <img src="../images/icon/h2.jpg" alt="First slide">
+          <img src="../images/001.jpg" alt="First slide">
         </div>
         <div class="item">
-          <img src="../images/icon/h2.jpg" alt="Second slide">
+          <img src="../images/002.jpg" alt="Second slide">
         </div>
         <div class="item">
-          <img src="../images/icon/h2.jpg" alt="Third slide">
+          <img src="../images/003.jpg" alt="Third slide">
+        </div>
+        <div class="item">
+          <img src="../images/004.jpg" alt="Forth slide">
         </div>
       </div>
+    </div>
       <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
@@ -381,108 +387,135 @@
         <div>
           <div class="col-xs-12 col-sm-6 col-md-4">
               <div class="hovereffect thumbnail">
-                  <img class="img-responsive" src="../images/icon/git.jpg" alt="">
+                  <img class="img-responsive" src="../images/1.jpg" alt="">
                   <div class="overlay">
-                     <h2>Hover effect 4</h2>
+                     <h2>PREMIUM PRODUCTS</h2>
                      <a class="info" href="#">SHOW</a>
                   </div>
               </div>
           </div>
           <div class="col-xs-12 col-sm-6 col-md-4">
               <div class="hovereffect thumbnail">
-                  <img class="img-responsive" src="../images/icon/git.jpg" alt="">
+                  <img class="img-responsive" src="../images/2.jpg" alt="">
                   <div class="overlay">
-                     <h2>Hover effect 4</h2>
+                     <h2>ELECTRIC GUITER BUNDLES</h2>
                      <a class="info" href="#">SHOW</a>
                   </div>
               </div>
           </div>
           <div class="col-xs-12 col-sm-6 col-md-4">
               <div class="hovereffect thumbnail">
-                  <img class="img-responsive" src="../images/icon/git.jpg" alt="">
+                  <img class="img-responsive" src="../images/3.jpg" alt="">
                   <div class="overlay">
-                     <h2>Hover effect 4</h2>
+                     <h2>MID & PORTABLE KEYBOARDS</h2>
                      <a class="info" href="#">SHOW</a>
                   </div>
               </div>
           </div>
           <div class="col-xs-12 col-sm-6 col-md-4">
               <div class="hovereffect thumbnail">
-                  <img class="img-responsive" src="../images/icon/git.jpg" alt="">
+                  <img class="img-responsive" src="../images/4.jpg" alt="">
                   <div class="overlay">
-                     <h2>Hover effect 4</h2>
+                     <h2>AUDIO INTERFACES</h2>
                      <a class="info" href="#">SHOW</a>
                   </div>
               </div>
           </div>
           <div class="col-xs-12 col-sm-6 col-md-4">
               <div class="hovereffect thumbnail">
-                  <img class="img-responsive" src="../images/icon/git.jpg" alt="">
+                  <img class="img-responsive" src="../images/5.jpg" alt="">
                   <div class="overlay">
-                     <h2>Hover effect 4</h2>
+                     <h2>ELECTRIC & ACOUSTIC GUITARS</h2>
                      <a class="info" href="#">SHOW</a>
                   </div>
               </div>
           </div>
           <div class="col-xs-12 col-sm-6 col-md-4">
               <div class="hovereffect thumbnail">
-                  <img class="img-responsive" src="../images/icon/git.jpg" alt="">
+                  <img class="img-responsive" src="../images/6.jpg" alt="">
                   <div class="overlay">
-                     <h2>Hover effect 4</h2>
+                     <h2>MONITORS/SPEAKERS</h2>
                      <a class="info" href="#">SHOW</a>
                   </div>
               </div>
           </div>
           <div class="col-xs-12 col-sm-6 col-md-4">
               <div class="hovereffect thumbnail">
-                  <img class="img-responsive" src="../images/icon/git.jpg" alt="">
+                  <img class="img-responsive" src="../images/7.jpg" alt="">
                   <div class="overlay">
-                     <h2>Hover effect 4</h2>
+                     <h2>EFFECT PEDALS</h2>
                      <a class="info" href="#">SHOW</a>
                   </div>
               </div>
           </div>
           <div class="col-xs-12 col-sm-6 col-md-4">
               <div class="hovereffect thumbnail">
-                  <img class="img-responsive" src="../images/icon/git.jpg" alt="">
+                  <img class="img-responsive" src="../images/8.jpg" alt="">
                   <div class="overlay">
-                     <h2>Hover effect 4</h2>
+                     <h2>GUITAR AMPLIFIERS & PROCESSORS</h2>
                      <a class="info" href="#">SHOW</a>
                   </div>
               </div>
           </div>
           <div class="col-xs-12 col-sm-6 col-md-4">
               <div class="hovereffect thumbnail">
-                  <img class="img-responsive" src="../images/icon/git.jpg" alt="">
+                  <img class="img-responsive" src="../images/9.jpg" alt="">
                   <div class="overlay">
-                     <h2>Hover effect 4</h2>
+                     <h2>ACOUSTIC GUITAR BUNDLES</h2>
                      <a class="info" href="#">SHOW</a>
                   </div>
               </div>
           </div>
           <div class="col-xs-12 col-sm-6 col-md-4">
               <div class="hovereffect thumbnail">
-                  <img class="img-responsive" src="../images/icon/git.jpg" alt="">
+                  <img class="img-responsive" src="../images/10.jpg" alt="">
                   <div class="overlay">
-                     <h2>Hover effect 4</h2>
+                     <h2>SOUND PROOFING ACOUSTIC TREATMENT</h2>
                      <a class="info" href="#">SHOW</a>
                   </div>
               </div>
           </div>
           <div class="col-xs-12 col-sm-6 col-md-4">
               <div class="hovereffect thumbnail">
-                  <img class="img-responsive" src="../images/icon/git.jpg" alt="">
+                  <img class="img-responsive" src="../images/11.jpg" alt="">
                   <div class="overlay">
-                     <h2>Hover effect 4</h2>
+                     <h2>ELECTRONIC & ACOUSTIC DRUM KITS</h2>
                      <a class="info" href="#">SHOW</a>
                   </div>
               </div>
           </div>
           <div class="col-xs-12 col-sm-6 col-md-4">
               <div class="hovereffect thumbnail">
-                  <img class="img-responsive" src="../images/icon/git.jpg" alt="">
+                  <img class="img-responsive" src="../images/12.jpg" alt="">
                   <div class="overlay">
-                     <h2>Hover effect 4</h2>
+                     <h2>KEYBOARD BUNDLES</h2>
+                     <a class="info" href="#">SHOW</a>
+                  </div>
+              </div>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-4">
+              <div class="hovereffect thumbnail">
+                  <img class="img-responsive" src="../images/13.jpg" alt="">
+                  <div class="overlay">
+                     <h2>BASS GUITARS & AMPLIFIERS</h2>
+                     <a class="info" href="#">SHOW</a>
+                  </div>
+              </div>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-4">
+              <div class="hovereffect thumbnail">
+                  <img class="img-responsive" src="../images/14.jpg" alt="">
+                  <div class="overlay">
+                     <h2>DJ CONTROLLERS INTERFACES</h2>
+                     <a class="info" href="#">SHOW</a>
+                  </div>
+              </div>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-4">
+              <div class="hovereffect thumbnail">
+                  <img class="img-responsive" src="../images/15.jpg" alt="">
+                  <div class="overlay">
+                     <h2>CONDENSER & DYNAMIC MICROPHONES</h2>
                      <a class="info" href="#">SHOW</a>
                   </div>
               </div>
@@ -852,6 +885,10 @@
         </div>
         <div class="col-xs-12 col-sm-6 col-md-3">
           <h3>Social Connection</h3>
+          <li><a href="#"><img src="..\images\icon\1.jpg" height="30" width="30" alt="Facebook"></a></li>
+          <li><a href="#"><img src="..\images\icon\2.jpg" height="30" width="30" alt="Twitter"></a></li>
+          <li><a href="#"><img src="..\images\icon\3.png" height="30" width="30" alt="Google+"></a></li>
+          <li><a href="#"><img src="..\images\icon\4.jpg" height="30" width="30" alt="Linkedin"></a></li>
         </div>
         <div class="col-xs-12 col-sm-6 col-md-3">
           <h3>News &amp; Updates</h3>
@@ -859,7 +896,7 @@
       </div>
       <hr/>
       <div class="center text-muted">
-        Copyright &copy; 2016 Saptak Musical Hut &#124; Saptak Musical Hut Private Limited
+        &copy; 2016, All rights reserved &#124; Developed by <a href="#">Soumyadeep Debnath</a> &amp; <a href="#">Shubham Khan</a> &#124; Saptak Musical Hut Private Limited
       </div>
     </div>
     <!-- jQuery Core JavaScript -->
