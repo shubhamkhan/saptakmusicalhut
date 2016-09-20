@@ -103,6 +103,28 @@ body {
   border-bottom:3px solid #9e1e22;
  }
 
+/* carousel image left shadow effect remove */
+.carousel-control.left {
+	background-image: none;
+}
+
+/* carousel image right shadow effect remove */
+.carousel-control.right {
+  background-image: none;
+}
+
+/* carousel image over arrow effect */
+.carousel-control {
+  padding-top: 12.25%;
+  width:5%;
+}
+
+/* Carousel indicators color Styles */
+.carousel-indicators .active {
+    background-color: #2980b9;
+}
+
+
 /* Thumbnail broder effect remove */
 .thumbnail {
     border:0px;
@@ -196,22 +218,6 @@ body {
    transform: scale(1);
  }
 
-/* carousel image left shadow effect remove */
-.carousel-control.left {
-	background-image: none;
-}
-
-/* carousel image right shadow effect remove */
-.carousel-control.right {
-  background-image: none;
-}
-
-/* carousel image over arrow effect */
-.carousel-control {
-  padding-top:12.25%;
-  width:5%;
-}
-
 /* carousel image hover underline text remove */
 .wall-entry a:hover {
   text-decoration: none;
@@ -258,4 +264,15 @@ body {
   .modal-dialog {
     width: 450px;
   }
+}
+
+/* Height and width for footer small_icon */
+.small_icon {
+  height: 30px;
+  width: 30px;
+}
+
+.brand {
+  height: 45px;
+  width: 45px;
 }
