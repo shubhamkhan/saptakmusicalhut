@@ -81,14 +81,14 @@ body {
 
 @media (max-width: 768px) {
   .dropdown-menu-large {
-    margin-left: 0 ;
-    margin-right: 0 ;
+    margin-left: 0px;
+    margin-right: 0px;
   }
   .dropdown-menu-large > li {
-    margin-bottom: 30px;
+    margin-bottom: 0px;
   }
   .dropdown-menu-large > li:last-child {
-    margin-bottom: 0;
+    margin-bottom: 0px;
   }
   .dropdown-menu-large .dropdown-header {
     padding: 3px 15px !important;
@@ -248,7 +248,14 @@ body {
 
 /* carousel item image over zoom scale set */
  .hoeffect:hover img {
-   -webkit-transform: scale(1.03);
-   -ms-transform: scale(1.03);
+   -webkit-transform: scale(1.09);
+   -ms-transform: scale(1.09);
    transform: scale(1.03);
  }
+
+ /* New width for default modal */
+@media screen and (min-width: 768px) {
+  .modal-dialog {
+    width: 450px;
+  }
+}

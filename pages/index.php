@@ -66,13 +66,13 @@
             </span>
           </div>
           <!-- Login Modal -->
-          <div class="modal fade bs-example-modal-sm" tabindex="-1" id="myModal" role="dialog" aria-labelledby="mySmallModalLabel">
+          <div class="modal fade" tabindex="-1" id="myModal" role="dialog">
             <div class="modal-dialog modal-sm" role="document">
               <!-- Login Modal content-->
               <div class="modal-content">
                 <div class="modal-header">
                   <button type="button" class="close" data-dismiss="modal">&times;</button>
-                  <h4 class="modal-title center">Log In</h4>
+                  <h2 class="modal-title center">Log In</h2>
                 </div>
                 <div class="modal-body">
                   <form>
@@ -82,14 +82,14 @@
                     <div class="form-group">
                       <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
                     </div>
-                    <p><a href="#">Forgot password?</a></p>
+                    <p class="center"><i><a href="#">Forgot password?</a></i></p>
                   <div class="">
                     <button type="submit" class="btn btn-warning col-xs-offset-5 col-sm-offset-5 col-md-offset-5 centered">Log in</button>
                   </div>
                   </form>
                 </div>
                 <div class="modal-footer">
-                  <p class="center">Don't have an account? <a href="#" data-dismiss="modal" data-toggle="modal" data-target="#myModal1"> Sign up</a></p>
+                  <p class="center"><i>Don't have an account? <a href="#" data-dismiss="modal" data-toggle="modal" data-target="#myModal1"> Sign up</a></i></p>
                 </div>
               </div>
             </div>
@@ -101,7 +101,7 @@
               <div class="modal-content">
                 <div class="modal-header">
                   <button type="button" class="close" data-dismiss="modal">&times;</button>
-                  <h4 class="modal-title center">Sign Up</h4>
+                  <h2 class="modal-title center">Sign Up</h2>
                 </div>
                 <div class="modal-body">
                   <form>
@@ -121,11 +121,11 @@
                       <input type="text" class="form-control" id="Input_Phone" placeholder="Phone No">
                     </div>
                     <button type="submit" class="btn btn-warning col-xs-offset-5 col-sm-offset-5 col-md-offset-5 centered">Start Now</button>
-                    <p class="center">By starting, you agree to Saptak Musical Hut's <a href="#">Terms of Service</a> and <a href="#">Privacy Policy.</a></p>
+                    <h6><i class="center">By starting, you agree to Saptak Musical Hut's <a href="#">Terms of Service</a> and <a href="#">Privacy Policy.</a></i></h6>
                   </form>
                 </div>
-                <div class="modal-footer center">
-                  <p class="">Have an account? <a href="#" data-dismiss="modal" data-toggle="modal" data-target="#myModal">Log in</a></p>
+                <div class="modal-footer">
+                  <p class="center"><i>Have an account? <a href="#" data-dismiss="modal" data-toggle="modal" data-target="#myModal">Log in</a></i></p>
                 </div>
               </div>
             </div>
@@ -378,7 +378,6 @@
     </div>
     <div class="container">
       <div class="page-header">
-        <div>
           <div class="col-xs-12 col-sm-6 col-md-4">
               <div class="hovereffect thumbnail">
                   <img class="img-responsive" src="../images/icon/git.jpg" alt="">
@@ -487,7 +486,6 @@
                   </div>
               </div>
           </div>
-        </div>
       </div>
       <div class="col-md-12">
         <h3>RECOMMENDED FOR YOU</h3>
