@@ -1,6 +1,9 @@
 /* Body top padding set */
 body {
-  padding-top: 100px;
+  padding-top: 82px;
+}
+@media screen and (max-width: 768px) {
+    body { padding-top: 102px; }
 }
 
 /* Center Manu */
@@ -39,8 +42,8 @@ body {
 
 /* Dropdown Large Div left right margin space*/
 .dropdown-menu-large {
-  margin-left: 16px;
-  margin-right: 16px;
+  left: 10% !important;
+  right: 10% !important;
   padding: 20px 0px;
 }
 
@@ -275,4 +278,29 @@ body {
 .brand {
   height: 45px;
   width: 45px;
+}
+.navbar-brand {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+navback {
+  background-color:rgb(105, 78, 167);
+  color: #FFFFFF;
+	background: linear-gradient(rgb(103, 85, 174), rgb(87, 67, 136)) repeat scroll 0% 0% rgb(105, 78, 167);
+	box-shadow: 0px 2px 3px rgb(164, 136, 227) inset;
+	border-color: rgb(59, 34, 110) rgb(59, 34, 110) rgb(44, 21, 81);
+}
+
+.footer {
+  background: #252525;
+  color:#FFFFFF;
+}
+.footer li > a {
+  text-decoration: none;
+  color:#FFFFFF;
+}
+
+.footer li {
+    list-style-type: none;
 }
