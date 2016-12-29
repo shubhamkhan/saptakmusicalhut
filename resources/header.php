@@ -47,6 +47,9 @@
       </header>
       <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
         <div class="container-fluid navback">
+          <div class="row sm_nav">
+              <!-- -->
+          </div>
           <div class="row">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header navbar-left">
@@ -62,7 +65,7 @@
               <div class="input-group">
                 <input type="text" class="form-control" placeholder="Search for...">
                 <span class="input-group-btn">
-                  <button class="glyphicon glyphicon-search btn btn-default" type="button"></button>
+                  <button class="glyphicon glyphicon-search btn search" type="button"></button>
                   <!-- Trigger the modal with a button -->
                   <button type="button" class="btn btn-default glyphicon glyphicon-user" data-toggle="modal" data-target="#myModal"></button>
                 </span>
@@ -123,7 +126,7 @@
                           <input type="text" class="form-control" id="Input_Phone" placeholder="Phone No">
                         </div>
                         <button type="submit" class="btn btn-warning col-xs-offset-5 col-sm-offset-5 col-md-offset-5 centered">Start Now</button>
-                        <h6><i class="center">By starting, you agree to Saptak Musical Hut's <a href="#">Terms of Service</a> and <a href="#">Privacy Policy.</a></i></h6>
+                        <h6><i class="center">You agree to Saptak Musical Hut's <a href="#">Terms of Service</a> and <a href="#">Privacy Policy.</a></i></h6>
                       </form>
                     </div>
                     <div class="modal-footer">

@@ -1,9 +1,9 @@
 /* Body top padding set */
 body {
-  padding-top: 82px;
+  padding-top: 107px;
 }
 @media screen and (max-width: 768px) {
-    body { padding-top: 102px; }
+    body { padding-top: 127px; }
 }
 
 /* Page Loading gif effect*/
@@ -17,6 +17,10 @@ body {
 	height: 100%;
 	z-index: 9999;
 	background: url(../images/icon/loading_logo.gif) center no-repeat #fff;
+}
+
+.sm_nav {
+  height: 25px;
 }
 
 /* Center Manu */
@@ -36,7 +40,7 @@ body {
 .navbar-default .navbar-brand {
    color: white;
    font-weight: bold;
-   font-size: 20px;
+   font-size: 14px;
 }
 
 /*Change bg color in Manu*/
@@ -157,14 +161,6 @@ body {
 /* Carousel indicators color Styles */
 .carousel-indicators .active {
     background-color: #2980b9;
-}
-
-
-/* Thumbnail broder effect remove */
-.thumbnail {
-    border:0px;
-    box-shadow:0px;
-    border-radius:0px;
 }
 
 /* Low image SHOW is Center */
@@ -331,10 +327,29 @@ body {
 
 /* Left Nav castomize */
 .navbar-fixed-left {
-  width: 350px;
+  width: 250px;
   border-radius: 0;
   height: 100%;
 }
 .navbar-fixed-left .navbar-nav > li {
-  width: 350px;
+  width: 250px;
+}
+
+.scroll-top {
+   position:fixed;
+   bottom:0;
+   right:6%;
+   z-index:100;
+   background: #ffcc33;
+   font-size:24px;
+   border-top-left-radius:3px;
+   border-top-right-radius:3px;
+}
+.scroll-top a:link,
+.scroll-top a:visited {
+  color:#222;
+}
+
+.search {
+  background-color: #ffcc33;
 }

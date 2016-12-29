@@ -61,5 +61,8 @@
       <!-- Custom JavaScript -->
       <script src="../js/script.js"></script>
     </footer>
+    <ul class="nav scroll-top">
+      <li><a href="#" title="Scroll to top"><i class="glyphicon glyphicon-chevron-up"></i></a></li>
+    </ul>
   </body>
 </html>
