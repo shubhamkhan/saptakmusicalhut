@@ -2,7 +2,7 @@ Saptak Musical Hut
 -------------------
 Musical Instruments E-commerce Website.
 
-Github Commend
+Github Commands
 --------------
 1. At first go to the link "https://github.com/shubhamkhan/saptakmusicalhut"
 2. Click on "Fork" button.
